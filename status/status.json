@@ -15,11 +15,9 @@
 ,
 "macos-x86_64-clang": "👍🏽 passing"
 ,
-"macos-x86_64-gcc": "👍🏽 passing"
-,
 "netbsd-aarch64-gcc": "👍🏽 passing"
 ,
-"netbsd-x86_64-gcc": "👍🏽 passing"
+"netbsd-x86_64-gcc": "👎🏽 failing"
 ,
 "omnios-x86_64-gcc": "👍🏽 passing"
 ,
