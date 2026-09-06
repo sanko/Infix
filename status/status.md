@@ -9,8 +9,9 @@
 | **macos** | `aarch64` | `clang` | ✅ success |
 | **macos** | `aarch64` | `gcc` | ✅ success |
 | **macos** | `x86_64` | `clang` | ✅ success |
+| **macos** | `x86_64` | `gcc` | ✅ success |
 | **netbsd** | `aarch64` | `gcc` | ✅ success |
-| **netbsd** | `x86_64` | `gcc` | ❌ failure |
+| **netbsd** | `x86_64` | `gcc` | ✅ success |
 | **omnios** | `x86_64` | `gcc` | ✅ success |
 | **openbsd** | `aarch64` | `clang` | ✅ success |
 | **openbsd** | `aarch64` | `egcc` | ✅ success |
